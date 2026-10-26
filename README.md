@@ -1,5 +1,4 @@
-# Kestrel (formerly PolicyGuard)
-
+# Kestrel 
 **A bodyguard for AI agents.** One poisoned tool can hijack a tool-using agent into leaking secrets while every action looks legitimate. Kestrel supervises what the agent _does_ across its tool chain (including the MCP tool supply chain), blocks known leaks deterministically, and escalates the uncertain cases to a human analyst.
 
 Built at **Secure Horizons 2026** (x AWS). Protected agent: DevAssist.
